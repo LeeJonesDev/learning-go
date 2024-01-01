@@ -5,6 +5,7 @@ use (
 	./cars-assemble
 	./lasagna
 	./party-robot
+	./vehicle-purchase
 	./weather-forecast
 	./welcome-to-tech-palace
 )
