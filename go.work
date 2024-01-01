@@ -4,6 +4,7 @@ use (
 	./annalyns-infiltration
 	./cars-assemble
 	./lasagna
+	./party-robot
 	./weather-forecast
 	./welcome-to-tech-palace
 )
