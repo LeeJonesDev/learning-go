@@ -5,4 +5,5 @@ use (
 	./cars-assemble
 	./lasagna
 	./weather-forecast
+	./welcome-to-tech-palace
 )
