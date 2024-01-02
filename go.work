@@ -5,6 +5,7 @@ use (
 	./blackjack
 	./cars-assemble
 	./lasagna
+	./need-for-speed
 	./party-robot
 	./vehicle-purchase
 	./weather-forecast
