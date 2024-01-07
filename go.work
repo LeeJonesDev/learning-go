@@ -7,6 +7,7 @@ use (
 	./card-tricks
 	./cars-assemble
 	./lasagna
+	./lasagna-master
 	./need-for-speed
 	./party-robot
 	./vehicle-purchase
